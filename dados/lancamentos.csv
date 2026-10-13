@@ -1,0 +1,482 @@
+lancamento_id,data,descricao,categoria,tipo,valor,forma_pagamento
+1,2025-10-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+2,2025-10-02,Corrida de aplicativo,Transporte,Despesa,29.19,Cartão de crédito
+3,2025-10-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+4,2025-10-03,Supermercado,Alimentação,Despesa,104.98,Pix
+5,2025-10-03,Corrida de aplicativo,Transporte,Despesa,34.24,Cartão de crédito
+6,2025-10-04,Consulta médica,Saúde,Despesa,237.97,Pix
+7,2025-10-04,Restaurante,Alimentação,Despesa,38.77,Cartão de crédito
+8,2025-10-04,Delivery,Alimentação,Despesa,66.87,Cartão de crédito
+9,2025-10-05,Salário,Salário,Receita,5600.00,Pix
+10,2025-10-05,Restaurante,Alimentação,Despesa,47.72,Pix
+11,2025-10-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+12,2025-10-06,Show,Lazer,Despesa,86.19,Débito
+13,2025-10-07,Corrida de aplicativo,Transporte,Despesa,30.32,Cartão de crédito
+14,2025-10-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+15,2025-10-08,Condomínio,Moradia,Despesa,250.00,Boleto
+16,2025-10-09,Delivery,Alimentação,Despesa,59.90,Cartão de crédito
+17,2025-10-10,Internet,Moradia,Despesa,99.90,Débito
+18,2025-10-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+19,2025-10-13,Delivery,Alimentação,Despesa,29.31,Cartão de crédito
+20,2025-10-13,Show,Lazer,Despesa,98.94,Pix
+21,2025-10-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+22,2025-10-14,Supermercado,Alimentação,Despesa,105.27,Pix
+23,2025-10-15,Conta de luz,Moradia,Despesa,107.00,Boleto
+24,2025-10-18,Lavanderia,Outros,Despesa,30.58,Pix
+25,2025-10-19,Supermercado,Alimentação,Despesa,137.51,Débito
+26,2025-10-20,Supermercado,Alimentação,Despesa,74.25,Débito
+27,2025-10-23,Supermercado,Alimentação,Despesa,173.98,Pix
+28,2025-10-23,Restaurante,Alimentação,Despesa,62.85,Pix
+29,2025-10-23,Roupas,Compras,Despesa,222.28,Cartão de crédito
+30,2025-10-24,Delivery,Alimentação,Despesa,45.30,Cartão de crédito
+31,2025-10-25,Corrida de aplicativo,Transporte,Despesa,19.52,Cartão de crédito
+32,2025-10-26,Restaurante,Alimentação,Despesa,95.46,Cartão de crédito
+33,2025-10-27,Corrida de aplicativo,Transporte,Despesa,28.34,Cartão de crédito
+34,2025-10-28,Rendimento da reserva,Rendimentos,Receita,18.75,Pix
+35,2025-10-28,Delivery,Alimentação,Despesa,40.45,Cartão de crédito
+36,2025-10-28,Corrida de aplicativo,Transporte,Despesa,21.40,Cartão de crédito
+37,2025-11-01,Delivery,Alimentação,Despesa,54.57,Cartão de crédito
+38,2025-11-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+39,2025-11-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+40,2025-11-04,Delivery,Alimentação,Despesa,54.63,Cartão de crédito
+41,2025-11-04,Casa e decoração,Compras,Despesa,289.68,Cartão de crédito
+42,2025-11-05,Salário,Salário,Receita,5600.00,Pix
+43,2025-11-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+44,2025-11-06,Restaurante,Alimentação,Despesa,89.82,Pix
+45,2025-11-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+46,2025-11-08,Condomínio,Moradia,Despesa,250.00,Boleto
+47,2025-11-08,Supermercado,Alimentação,Despesa,189.20,Pix
+48,2025-11-09,Supermercado,Alimentação,Despesa,80.59,Pix
+49,2025-11-09,Supermercado,Alimentação,Despesa,189.52,Cartão de crédito
+50,2025-11-09,Corrida de aplicativo,Transporte,Despesa,37.27,Cartão de crédito
+51,2025-11-10,Internet,Moradia,Despesa,99.90,Débito
+52,2025-11-10,Corrida de aplicativo,Transporte,Despesa,23.30,Cartão de crédito
+53,2025-11-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+54,2025-11-13,Restaurante,Alimentação,Despesa,58.43,Cartão de crédito
+55,2025-11-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+56,2025-11-15,Conta de luz,Moradia,Despesa,147.08,Boleto
+57,2025-11-15,Supermercado,Alimentação,Despesa,92.86,Débito
+58,2025-11-15,Corrida de aplicativo,Transporte,Despesa,12.08,Cartão de crédito
+59,2025-11-16,Supermercado,Alimentação,Despesa,133.30,Pix
+60,2025-11-17,Projeto freelance,Freelance,Receita,947.69,Pix
+61,2025-11-17,Restaurante,Alimentação,Despesa,68.03,Cartão de crédito
+62,2025-11-17,Delivery,Alimentação,Despesa,36.56,Cartão de crédito
+63,2025-11-17,Cinema,Lazer,Despesa,153.17,Pix
+64,2025-11-18,Delivery,Alimentação,Despesa,62.15,Cartão de crédito
+65,2025-11-18,Delivery,Alimentação,Despesa,57.54,Cartão de crédito
+66,2025-11-18,Cinema,Lazer,Despesa,117.86,Pix
+67,2025-11-19,Barbeiro,Outros,Despesa,24.60,Pix
+68,2025-11-20,Restaurante,Alimentação,Despesa,36.64,Pix
+69,2025-11-23,Supermercado,Alimentação,Despesa,120.35,Pix
+70,2025-11-24,Corrida de aplicativo,Transporte,Despesa,34.77,Cartão de crédito
+71,2025-11-25,Delivery,Alimentação,Despesa,52.92,Cartão de crédito
+72,2025-11-27,Bar com amigos,Lazer,Despesa,59.87,Cartão de crédito
+73,2025-11-27,Casa e decoração,Compras,Despesa,129.86,Cartão de crédito
+74,2025-11-28,Rendimento da reserva,Rendimentos,Receita,43.29,Pix
+75,2025-11-28,Restaurante,Alimentação,Despesa,40.00,Débito
+76,2025-12-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+77,2025-12-02,Corrida de aplicativo,Transporte,Despesa,29.51,Cartão de crédito
+78,2025-12-02,Passeio,Lazer,Despesa,134.67,Cartão de crédito
+79,2025-12-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+80,2025-12-03,Supermercado,Alimentação,Despesa,124.09,Pix
+81,2025-12-03,Restaurante,Alimentação,Despesa,83.67,Cartão de crédito
+82,2025-12-04,Corrida de aplicativo,Transporte,Despesa,29.13,Cartão de crédito
+83,2025-12-04,Barbeiro,Outros,Despesa,68.22,Débito
+84,2025-12-05,Salário,Salário,Receita,5600.00,Pix
+85,2025-12-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+86,2025-12-06,Correios,Outros,Despesa,55.39,Cartão de crédito
+87,2025-12-07,Supermercado,Alimentação,Despesa,218.63,Pix
+88,2025-12-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+89,2025-12-08,Condomínio,Moradia,Despesa,250.00,Boleto
+90,2025-12-08,Restaurante,Alimentação,Despesa,74.96,Cartão de crédito
+91,2025-12-08,Restaurante,Alimentação,Despesa,36.92,Cartão de crédito
+92,2025-12-08,Restaurante,Alimentação,Despesa,52.33,Pix
+93,2025-12-08,Delivery,Alimentação,Despesa,58.95,Cartão de crédito
+94,2025-12-08,Bar com amigos,Lazer,Despesa,64.73,Pix
+95,2025-12-08,Roupas,Compras,Despesa,180.78,Cartão de crédito
+96,2025-12-10,Internet,Moradia,Despesa,99.90,Débito
+97,2025-12-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+98,2025-12-12,Supermercado,Alimentação,Despesa,140.10,Pix
+99,2025-12-12,Corrida de aplicativo,Transporte,Despesa,23.01,Cartão de crédito
+100,2025-12-13,Supermercado,Alimentação,Despesa,229.22,Pix
+101,2025-12-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+102,2025-12-14,Eletrônicos,Compras,Despesa,139.64,Cartão de crédito
+103,2025-12-15,Conta de luz,Moradia,Despesa,127.62,Boleto
+104,2025-12-15,Supermercado,Alimentação,Despesa,89.36,Débito
+105,2025-12-15,Corrida de aplicativo,Transporte,Despesa,34.46,Cartão de crédito
+106,2025-12-16,Consulta médica,Saúde,Despesa,273.09,Pix
+107,2025-12-17,Livro técnico,Educação,Despesa,129.79,Cartão de crédito
+108,2025-12-18,Delivery,Alimentação,Despesa,31.56,Cartão de crédito
+109,2025-12-19,Delivery,Alimentação,Despesa,50.20,Cartão de crédito
+110,2025-12-23,Supermercado,Alimentação,Despesa,102.18,Cartão de crédito
+111,2025-12-26,Delivery,Alimentação,Despesa,43.10,Cartão de crédito
+112,2025-12-27,Barbeiro,Outros,Despesa,92.61,Cartão de crédito
+113,2025-12-28,Rendimento da reserva,Rendimentos,Receita,47.34,Pix
+114,2025-12-28,Restaurante,Alimentação,Despesa,56.12,Débito
+115,2026-01-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+116,2026-01-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+117,2026-01-03,Restaurante,Alimentação,Despesa,94.15,Cartão de crédito
+118,2026-01-03,Delivery,Alimentação,Despesa,43.61,Cartão de crédito
+119,2026-01-04,Delivery,Alimentação,Despesa,65.55,Cartão de crédito
+120,2026-01-05,Salário,Salário,Receita,5600.00,Pix
+121,2026-01-05,Corrida de aplicativo,Transporte,Despesa,29.46,Cartão de crédito
+122,2026-01-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+123,2026-01-06,Restaurante,Alimentação,Despesa,36.15,Débito
+124,2026-01-07,Supermercado,Alimentação,Despesa,224.99,Pix
+125,2026-01-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+126,2026-01-08,Condomínio,Moradia,Despesa,250.00,Boleto
+127,2026-01-08,Corrida de aplicativo,Transporte,Despesa,18.91,Cartão de crédito
+128,2026-01-10,Internet,Moradia,Despesa,99.90,Débito
+129,2026-01-10,Supermercado,Alimentação,Despesa,137.68,Pix
+130,2026-01-10,Corrida de aplicativo,Transporte,Despesa,23.89,Cartão de crédito
+131,2026-01-11,Supermercado,Alimentação,Despesa,79.15,Pix
+132,2026-01-11,Delivery,Alimentação,Despesa,65.26,Cartão de crédito
+133,2026-01-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+134,2026-01-12,Taxa bancária,Outros,Despesa,30.15,Débito
+135,2026-01-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+136,2026-01-15,Conta de luz,Moradia,Despesa,98.17,Boleto
+137,2026-01-15,Cinema,Lazer,Despesa,49.52,Cartão de crédito
+138,2026-01-16,Supermercado,Alimentação,Despesa,94.77,Cartão de crédito
+139,2026-01-17,Restaurante,Alimentação,Despesa,99.12,Débito
+140,2026-01-17,Show,Lazer,Despesa,57.22,Pix
+141,2026-01-19,Delivery,Alimentação,Despesa,36.34,Cartão de crédito
+142,2026-01-19,Delivery,Alimentação,Despesa,49.74,Cartão de crédito
+143,2026-01-20,Restaurante,Alimentação,Despesa,36.96,Cartão de crédito
+144,2026-01-20,Delivery,Alimentação,Despesa,27.67,Cartão de crédito
+145,2026-01-22,Corrida de aplicativo,Transporte,Despesa,30.62,Cartão de crédito
+146,2026-01-24,Supermercado,Alimentação,Despesa,156.75,Pix
+147,2026-01-25,Corrida de aplicativo,Transporte,Despesa,36.33,Cartão de crédito
+148,2026-01-26,Supermercado,Alimentação,Despesa,158.92,Pix
+149,2026-01-28,Rendimento da reserva,Rendimentos,Receita,45.07,Pix
+150,2026-02-02,Supermercado,Alimentação,Despesa,70.57,Débito
+151,2026-02-02,Restaurante,Alimentação,Despesa,92.93,Débito
+152,2026-02-02,Delivery,Alimentação,Despesa,63.75,Cartão de crédito
+153,2026-02-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+154,2026-02-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+155,2026-02-03,Supermercado,Alimentação,Despesa,171.49,Cartão de crédito
+156,2026-02-04,Corrida de aplicativo,Transporte,Despesa,21.20,Cartão de crédito
+157,2026-02-05,Salário,Salário,Receita,5600.00,Pix
+158,2026-02-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+159,2026-02-06,Barbeiro,Outros,Despesa,47.46,Cartão de crédito
+160,2026-02-07,Supermercado,Alimentação,Despesa,180.00,Cartão de crédito
+161,2026-02-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+162,2026-02-08,Condomínio,Moradia,Despesa,250.00,Boleto
+163,2026-02-10,Internet,Moradia,Despesa,99.90,Débito
+164,2026-02-10,Delivery,Alimentação,Despesa,41.32,Cartão de crédito
+165,2026-02-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+166,2026-02-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+167,2026-02-14,Corrida de aplicativo,Transporte,Despesa,37.32,Cartão de crédito
+168,2026-02-14,Cinema,Lazer,Despesa,63.32,Pix
+169,2026-02-15,Conta de luz,Moradia,Despesa,163.98,Boleto
+170,2026-02-15,Restaurante,Alimentação,Despesa,72.27,Pix
+171,2026-02-17,Farmácia,Saúde,Despesa,25.66,Pix
+172,2026-02-17,Supermercado,Alimentação,Despesa,148.17,Débito
+173,2026-02-18,Supermercado,Alimentação,Despesa,94.87,Cartão de crédito
+174,2026-02-18,Restaurante,Alimentação,Despesa,32.71,Cartão de crédito
+175,2026-02-18,Restaurante,Alimentação,Despesa,42.81,Cartão de crédito
+176,2026-02-18,Corrida de aplicativo,Transporte,Despesa,34.99,Cartão de crédito
+177,2026-02-20,Supermercado,Alimentação,Despesa,103.70,Cartão de crédito
+178,2026-02-21,Supermercado,Alimentação,Despesa,226.77,Débito
+179,2026-02-22,Farmácia,Saúde,Despesa,33.80,Débito
+180,2026-02-22,Corrida de aplicativo,Transporte,Despesa,18.49,Cartão de crédito
+181,2026-02-23,Restaurante,Alimentação,Despesa,97.99,Débito
+182,2026-02-24,Corrida de aplicativo,Transporte,Despesa,16.02,Cartão de crédito
+183,2026-02-26,Delivery,Alimentação,Despesa,66.83,Cartão de crédito
+184,2026-02-26,Passeio,Lazer,Despesa,144.29,Débito
+185,2026-02-28,Rendimento da reserva,Rendimentos,Receita,36.35,Pix
+186,2026-02-28,Bar com amigos,Lazer,Despesa,166.91,Cartão de crédito
+187,2026-02-28,Correios,Outros,Despesa,35.13,Pix
+188,2026-03-01,Restaurante,Alimentação,Despesa,69.95,Débito
+189,2026-03-02,Supermercado,Alimentação,Despesa,87.34,Cartão de crédito
+190,2026-03-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+191,2026-03-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+192,2026-03-04,Supermercado,Alimentação,Despesa,210.33,Cartão de crédito
+193,2026-03-04,Supermercado,Alimentação,Despesa,131.63,Pix
+194,2026-03-05,Salário,Salário,Receita,5600.00,Pix
+195,2026-03-05,Corrida de aplicativo,Transporte,Despesa,16.99,Cartão de crédito
+196,2026-03-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+197,2026-03-06,Supermercado,Alimentação,Despesa,162.89,Cartão de crédito
+198,2026-03-07,Presente,Compras,Despesa,268.43,Cartão de crédito
+199,2026-03-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+200,2026-03-08,Condomínio,Moradia,Despesa,250.00,Boleto
+201,2026-03-09,Restaurante,Alimentação,Despesa,35.24,Pix
+202,2026-03-10,Internet,Moradia,Despesa,99.90,Débito
+203,2026-03-10,Show,Lazer,Despesa,67.32,Débito
+204,2026-03-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+205,2026-03-12,Supermercado,Alimentação,Despesa,186.57,Cartão de crédito
+206,2026-03-12,Delivery,Alimentação,Despesa,44.11,Cartão de crédito
+207,2026-03-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+208,2026-03-14,Supermercado,Alimentação,Despesa,166.99,Pix
+209,2026-03-14,Corrida de aplicativo,Transporte,Despesa,20.48,Cartão de crédito
+210,2026-03-15,Conta de luz,Moradia,Despesa,116.88,Boleto
+211,2026-03-17,Projeto freelance,Freelance,Receita,578.34,Pix
+212,2026-03-17,Corrida de aplicativo,Transporte,Despesa,20.04,Cartão de crédito
+213,2026-03-17,Taxa bancária,Outros,Despesa,25.19,Cartão de crédito
+214,2026-03-20,Delivery,Alimentação,Despesa,39.18,Cartão de crédito
+215,2026-03-20,Show,Lazer,Despesa,92.79,Cartão de crédito
+216,2026-03-20,Show,Lazer,Despesa,100.45,Pix
+217,2026-03-22,Restaurante,Alimentação,Despesa,84.52,Débito
+218,2026-03-22,Delivery,Alimentação,Despesa,64.67,Cartão de crédito
+219,2026-03-22,Corrida de aplicativo,Transporte,Despesa,36.45,Cartão de crédito
+220,2026-03-22,Corrida de aplicativo,Transporte,Despesa,31.45,Cartão de crédito
+221,2026-03-22,Taxa bancária,Outros,Despesa,35.30,Cartão de crédito
+222,2026-03-23,Corrida de aplicativo,Transporte,Despesa,19.69,Cartão de crédito
+223,2026-03-26,Eletrônicos,Compras,Despesa,234.71,Cartão de crédito
+224,2026-03-27,Supermercado,Alimentação,Despesa,155.79,Débito
+225,2026-03-28,Rendimento da reserva,Rendimentos,Receita,37.80,Pix
+226,2026-03-28,Farmácia,Saúde,Despesa,30.90,Pix
+227,2026-03-28,Delivery,Alimentação,Despesa,31.23,Cartão de crédito
+228,2026-04-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+229,2026-04-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+230,2026-04-03,Corrida de aplicativo,Transporte,Despesa,30.55,Cartão de crédito
+231,2026-04-03,Corrida de aplicativo,Transporte,Despesa,15.60,Cartão de crédito
+232,2026-04-03,Corrida de aplicativo,Transporte,Despesa,22.79,Cartão de crédito
+233,2026-04-05,Salário,Salário,Receita,5600.00,Pix
+234,2026-04-05,Corrida de aplicativo,Transporte,Despesa,30.37,Cartão de crédito
+235,2026-04-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+236,2026-04-06,Delivery,Alimentação,Despesa,57.23,Cartão de crédito
+237,2026-04-07,Supermercado,Alimentação,Despesa,184.94,Cartão de crédito
+238,2026-04-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+239,2026-04-08,Condomínio,Moradia,Despesa,250.00,Boleto
+240,2026-04-08,Corrida de aplicativo,Transporte,Despesa,19.06,Cartão de crédito
+241,2026-04-08,Corrida de aplicativo,Transporte,Despesa,21.96,Cartão de crédito
+242,2026-04-10,Internet,Moradia,Despesa,99.90,Débito
+243,2026-04-11,Projeto freelance,Freelance,Receita,595.87,Pix
+244,2026-04-11,Corrida de aplicativo,Transporte,Despesa,35.22,Cartão de crédito
+245,2026-04-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+246,2026-04-13,Passeio,Lazer,Despesa,40.77,Pix
+247,2026-04-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+248,2026-04-14,Restaurante,Alimentação,Despesa,92.63,Débito
+249,2026-04-14,Correios,Outros,Despesa,20.23,Pix
+250,2026-04-15,Conta de luz,Moradia,Despesa,152.98,Boleto
+251,2026-04-15,Supermercado,Alimentação,Despesa,78.03,Débito
+252,2026-04-16,Supermercado,Alimentação,Despesa,133.94,Débito
+253,2026-04-16,Delivery,Alimentação,Despesa,44.90,Cartão de crédito
+254,2026-04-18,Passeio,Lazer,Despesa,94.05,Cartão de crédito
+255,2026-04-18,Lavanderia,Outros,Despesa,55.59,Pix
+256,2026-04-20,Restaurante,Alimentação,Despesa,55.16,Pix
+257,2026-04-20,Restaurante,Alimentação,Despesa,91.50,Débito
+258,2026-04-21,Supermercado,Alimentação,Despesa,180.02,Débito
+259,2026-04-21,Delivery,Alimentação,Despesa,37.65,Cartão de crédito
+260,2026-04-21,Delivery,Alimentação,Despesa,36.05,Cartão de crédito
+261,2026-04-22,Restaurante,Alimentação,Despesa,70.77,Débito
+262,2026-04-23,Cinema,Lazer,Despesa,151.38,Débito
+263,2026-04-25,Supermercado,Alimentação,Despesa,138.02,Débito
+264,2026-04-25,Delivery,Alimentação,Despesa,36.38,Cartão de crédito
+265,2026-04-25,Delivery,Alimentação,Despesa,47.89,Cartão de crédito
+266,2026-04-25,Presente,Compras,Despesa,283.36,Cartão de crédito
+267,2026-04-26,Supermercado,Alimentação,Despesa,223.27,Pix
+268,2026-04-27,Passeio,Lazer,Despesa,90.63,Débito
+269,2026-04-28,Rendimento da reserva,Rendimentos,Receita,32.25,Pix
+270,2026-04-28,Supermercado,Alimentação,Despesa,89.42,Débito
+271,2026-05-01,Supermercado,Alimentação,Despesa,83.43,Cartão de crédito
+272,2026-05-01,Corrida de aplicativo,Transporte,Despesa,36.15,Cartão de crédito
+273,2026-05-01,Presente,Compras,Despesa,275.58,Cartão de crédito
+274,2026-05-02,Supermercado,Alimentação,Despesa,111.63,Cartão de crédito
+275,2026-05-02,Restaurante,Alimentação,Despesa,87.06,Cartão de crédito
+276,2026-05-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+277,2026-05-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+278,2026-05-05,Salário,Salário,Receita,5600.00,Pix
+279,2026-05-05,Farmácia,Saúde,Despesa,108.36,Débito
+280,2026-05-05,Supermercado,Alimentação,Despesa,208.70,Débito
+281,2026-05-05,Delivery,Alimentação,Despesa,36.02,Cartão de crédito
+282,2026-05-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+283,2026-05-07,Supermercado,Alimentação,Despesa,142.75,Cartão de crédito
+284,2026-05-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+285,2026-05-08,Condomínio,Moradia,Despesa,250.00,Boleto
+286,2026-05-08,Restaurante,Alimentação,Despesa,79.46,Débito
+287,2026-05-09,Supermercado,Alimentação,Despesa,203.59,Cartão de crédito
+288,2026-05-10,Internet,Moradia,Despesa,99.90,Débito
+289,2026-05-10,Corrida de aplicativo,Transporte,Despesa,14.81,Cartão de crédito
+290,2026-05-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+291,2026-05-12,Corrida de aplicativo,Transporte,Despesa,16.36,Cartão de crédito
+292,2026-05-13,Bar com amigos,Lazer,Despesa,49.88,Débito
+293,2026-05-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+294,2026-05-14,Taxa bancária,Outros,Despesa,66.94,Pix
+295,2026-05-15,Conta de luz,Moradia,Despesa,142.93,Boleto
+296,2026-05-16,Delivery,Alimentação,Despesa,54.12,Cartão de crédito
+297,2026-05-19,Delivery,Alimentação,Despesa,65.81,Cartão de crédito
+298,2026-05-20,Corrida de aplicativo,Transporte,Despesa,37.06,Cartão de crédito
+299,2026-05-22,Show,Lazer,Despesa,48.96,Débito
+300,2026-05-23,Corrida de aplicativo,Transporte,Despesa,18.66,Cartão de crédito
+301,2026-05-23,Corrida de aplicativo,Transporte,Despesa,14.98,Cartão de crédito
+302,2026-05-24,Restaurante,Alimentação,Despesa,71.38,Pix
+303,2026-05-25,Supermercado,Alimentação,Despesa,210.74,Cartão de crédito
+304,2026-05-25,Supermercado,Alimentação,Despesa,222.19,Cartão de crédito
+305,2026-05-26,Cinema,Lazer,Despesa,85.14,Pix
+306,2026-05-27,Delivery,Alimentação,Despesa,26.86,Cartão de crédito
+307,2026-05-27,Corrida de aplicativo,Transporte,Despesa,16.26,Cartão de crédito
+308,2026-05-27,Bar com amigos,Lazer,Despesa,53.25,Pix
+309,2026-05-28,Rendimento da reserva,Rendimentos,Receita,41.94,Pix
+310,2026-05-28,Cinema,Lazer,Despesa,143.51,Débito
+311,2026-06-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+312,2026-06-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+313,2026-06-03,Delivery,Alimentação,Despesa,38.36,Cartão de crédito
+314,2026-06-05,Salário,Salário,Receita,5600.00,Pix
+315,2026-06-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+316,2026-06-07,Restaurante,Alimentação,Despesa,38.25,Débito
+317,2026-06-07,Corrida de aplicativo,Transporte,Despesa,20.20,Cartão de crédito
+318,2026-06-07,Passeio,Lazer,Despesa,75.94,Débito
+319,2026-06-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+320,2026-06-08,Condomínio,Moradia,Despesa,250.00,Boleto
+321,2026-06-08,Corrida de aplicativo,Transporte,Despesa,15.14,Cartão de crédito
+322,2026-06-09,Farmácia,Saúde,Despesa,77.35,Pix
+323,2026-06-09,Supermercado,Alimentação,Despesa,211.06,Débito
+324,2026-06-09,Restaurante,Alimentação,Despesa,96.26,Débito
+325,2026-06-09,Restaurante,Alimentação,Despesa,72.57,Débito
+326,2026-06-09,Corrida de aplicativo,Transporte,Despesa,19.97,Cartão de crédito
+327,2026-06-10,Internet,Moradia,Despesa,99.90,Débito
+328,2026-06-10,Delivery,Alimentação,Despesa,53.89,Cartão de crédito
+329,2026-06-10,Bar com amigos,Lazer,Despesa,86.91,Pix
+330,2026-06-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+331,2026-06-12,Delivery,Alimentação,Despesa,45.88,Cartão de crédito
+332,2026-06-12,Corrida de aplicativo,Transporte,Despesa,23.06,Cartão de crédito
+333,2026-06-12,Corrida de aplicativo,Transporte,Despesa,30.27,Cartão de crédito
+334,2026-06-13,Delivery,Alimentação,Despesa,55.06,Cartão de crédito
+335,2026-06-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+336,2026-06-14,Restaurante,Alimentação,Despesa,67.67,Cartão de crédito
+337,2026-06-15,Conta de luz,Moradia,Despesa,143.70,Boleto
+338,2026-06-15,Farmácia,Saúde,Despesa,62.02,Pix
+339,2026-06-15,Delivery,Alimentação,Despesa,59.30,Cartão de crédito
+340,2026-06-16,Supermercado,Alimentação,Despesa,206.15,Débito
+341,2026-06-16,Supermercado,Alimentação,Despesa,103.94,Cartão de crédito
+342,2026-06-18,Lavanderia,Outros,Despesa,39.12,Cartão de crédito
+343,2026-06-18,Taxa bancária,Outros,Despesa,71.70,Cartão de crédito
+344,2026-06-21,Delivery,Alimentação,Despesa,55.90,Cartão de crédito
+345,2026-06-21,Correios,Outros,Despesa,25.90,Cartão de crédito
+346,2026-06-22,Supermercado,Alimentação,Despesa,130.64,Débito
+347,2026-06-24,Corrida de aplicativo,Transporte,Despesa,26.31,Cartão de crédito
+348,2026-06-24,Corrida de aplicativo,Transporte,Despesa,25.93,Cartão de crédito
+349,2026-06-25,Supermercado,Alimentação,Despesa,144.35,Pix
+350,2026-06-25,Corrida de aplicativo,Transporte,Despesa,29.94,Cartão de crédito
+351,2026-06-25,Show,Lazer,Despesa,167.47,Cartão de crédito
+352,2026-06-28,Rendimento da reserva,Rendimentos,Receita,31.06,Pix
+353,2026-07-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+354,2026-07-02,Bar com amigos,Lazer,Despesa,143.04,Débito
+355,2026-07-02,Correios,Outros,Despesa,74.56,Débito
+356,2026-07-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+357,2026-07-03,Supermercado,Alimentação,Despesa,229.03,Débito
+358,2026-07-03,Delivery,Alimentação,Despesa,32.57,Cartão de crédito
+359,2026-07-04,Supermercado,Alimentação,Despesa,201.54,Cartão de crédito
+360,2026-07-05,Salário,Salário,Receita,5600.00,Pix
+361,2026-07-05,Show,Lazer,Despesa,147.46,Cartão de crédito
+362,2026-07-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+363,2026-07-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+364,2026-07-08,Condomínio,Moradia,Despesa,250.00,Boleto
+365,2026-07-08,Delivery,Alimentação,Despesa,33.30,Cartão de crédito
+366,2026-07-08,Corrida de aplicativo,Transporte,Despesa,19.49,Cartão de crédito
+367,2026-07-08,Corrida de aplicativo,Transporte,Despesa,36.02,Cartão de crédito
+368,2026-07-10,Internet,Moradia,Despesa,99.90,Débito
+369,2026-07-10,Restaurante,Alimentação,Despesa,94.79,Pix
+370,2026-07-10,Restaurante,Alimentação,Despesa,73.51,Cartão de crédito
+371,2026-07-10,Corrida de aplicativo,Transporte,Despesa,30.28,Cartão de crédito
+372,2026-07-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+373,2026-07-13,Restaurante,Alimentação,Despesa,64.89,Pix
+374,2026-07-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+375,2026-07-14,Cinema,Lazer,Despesa,110.79,Débito
+376,2026-07-15,Conta de luz,Moradia,Despesa,120.24,Boleto
+377,2026-07-15,Corrida de aplicativo,Transporte,Despesa,29.92,Cartão de crédito
+378,2026-07-15,Corrida de aplicativo,Transporte,Despesa,13.85,Cartão de crédito
+379,2026-07-15,Casa e decoração,Compras,Despesa,244.93,Cartão de crédito
+380,2026-07-16,Supermercado,Alimentação,Despesa,81.85,Pix
+381,2026-07-16,Corrida de aplicativo,Transporte,Despesa,19.57,Cartão de crédito
+382,2026-07-17,Correios,Outros,Despesa,51.71,Débito
+383,2026-07-18,Supermercado,Alimentação,Despesa,192.31,Pix
+384,2026-07-20,Restaurante,Alimentação,Despesa,102.09,Cartão de crédito
+385,2026-07-21,Delivery,Alimentação,Despesa,34.86,Cartão de crédito
+386,2026-07-22,Supermercado,Alimentação,Despesa,78.58,Débito
+387,2026-07-22,Delivery,Alimentação,Despesa,29.41,Cartão de crédito
+388,2026-07-26,Supermercado,Alimentação,Despesa,160.05,Cartão de crédito
+389,2026-07-26,Restaurante,Alimentação,Despesa,77.14,Débito
+390,2026-07-26,Corrida de aplicativo,Transporte,Despesa,32.57,Cartão de crédito
+391,2026-07-27,Casa e decoração,Compras,Despesa,179.79,Cartão de crédito
+392,2026-07-28,Rendimento da reserva,Rendimentos,Receita,32.08,Pix
+393,2026-08-01,Farmácia,Saúde,Despesa,109.96,Pix
+394,2026-08-02,Restaurante,Alimentação,Despesa,65.20,Pix
+395,2026-08-02,Delivery,Alimentação,Despesa,34.55,Cartão de crédito
+396,2026-08-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+397,2026-08-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+398,2026-08-04,Corrida de aplicativo,Transporte,Despesa,24.00,Cartão de crédito
+399,2026-08-04,Corrida de aplicativo,Transporte,Despesa,28.84,Cartão de crédito
+400,2026-08-05,Salário,Salário,Receita,5600.00,Pix
+401,2026-08-05,Corrida de aplicativo,Transporte,Despesa,24.96,Cartão de crédito
+402,2026-08-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+403,2026-08-06,Supermercado,Alimentação,Despesa,229.51,Cartão de crédito
+404,2026-08-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+405,2026-08-08,Condomínio,Moradia,Despesa,250.00,Boleto
+406,2026-08-08,Corrida de aplicativo,Transporte,Despesa,30.45,Cartão de crédito
+407,2026-08-08,Corrida de aplicativo,Transporte,Despesa,37.80,Cartão de crédito
+408,2026-08-09,Restaurante,Alimentação,Despesa,55.60,Pix
+409,2026-08-10,Internet,Moradia,Despesa,99.90,Débito
+410,2026-08-10,Supermercado,Alimentação,Despesa,176.01,Cartão de crédito
+411,2026-08-10,Delivery,Alimentação,Despesa,44.40,Cartão de crédito
+412,2026-08-10,Corrida de aplicativo,Transporte,Despesa,26.32,Cartão de crédito
+413,2026-08-11,Supermercado,Alimentação,Despesa,177.22,Débito
+414,2026-08-11,Supermercado,Alimentação,Despesa,135.86,Cartão de crédito
+415,2026-08-11,Casa e decoração,Compras,Despesa,275.14,Cartão de crédito
+416,2026-08-12,Projeto freelance,Freelance,Receita,583.14,Pix
+417,2026-08-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+418,2026-08-13,Bar com amigos,Lazer,Despesa,159.84,Débito
+419,2026-08-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+420,2026-08-14,Restaurante,Alimentação,Despesa,35.96,Débito
+421,2026-08-15,Conta de luz,Moradia,Despesa,153.84,Boleto
+422,2026-08-16,Supermercado,Alimentação,Despesa,125.67,Cartão de crédito
+423,2026-08-16,Corrida de aplicativo,Transporte,Despesa,15.16,Cartão de crédito
+424,2026-08-16,Bar com amigos,Lazer,Despesa,99.38,Cartão de crédito
+425,2026-08-17,Show,Lazer,Despesa,94.01,Pix
+426,2026-08-18,Delivery,Alimentação,Despesa,31.50,Cartão de crédito
+427,2026-08-18,Corrida de aplicativo,Transporte,Despesa,22.61,Cartão de crédito
+428,2026-08-19,Farmácia,Saúde,Despesa,28.42,Débito
+429,2026-08-20,Delivery,Alimentação,Despesa,57.77,Cartão de crédito
+430,2026-08-21,Supermercado,Alimentação,Despesa,200.28,Débito
+431,2026-08-21,Delivery,Alimentação,Despesa,44.57,Cartão de crédito
+432,2026-08-21,Corrida de aplicativo,Transporte,Despesa,27.83,Cartão de crédito
+433,2026-08-22,Restaurante,Alimentação,Despesa,95.46,Pix
+434,2026-08-22,Correios,Outros,Despesa,84.63,Pix
+435,2026-08-24,Bar com amigos,Lazer,Despesa,152.32,Pix
+436,2026-08-24,Taxa bancária,Outros,Despesa,82.49,Débito
+437,2026-08-28,Rendimento da reserva,Rendimentos,Receita,38.23,Pix
+438,2026-08-28,Restaurante,Alimentação,Despesa,69.57,Cartão de crédito
+439,2026-09-02,Supermercado,Alimentação,Despesa,120.91,Cartão de crédito
+440,2026-09-02,Recarga transporte público,Transporte,Despesa,150.00,Pix
+441,2026-09-03,Academia,Saúde,Despesa,109.90,Cartão de crédito
+442,2026-09-04,Corrida de aplicativo,Transporte,Despesa,31.77,Cartão de crédito
+443,2026-09-05,Salário,Salário,Receita,5600.00,Pix
+444,2026-09-05,Supermercado,Alimentação,Despesa,149.25,Débito
+445,2026-09-05,Supermercado,Alimentação,Despesa,150.37,Pix
+446,2026-09-05,Restaurante,Alimentação,Despesa,37.46,Pix
+447,2026-09-06,Curso online,Educação,Despesa,59.90,Cartão de crédito
+448,2026-09-06,Show,Lazer,Despesa,157.45,Cartão de crédito
+449,2026-09-08,Aluguel,Moradia,Despesa,1350.00,Boleto
+450,2026-09-08,Condomínio,Moradia,Despesa,250.00,Boleto
+451,2026-09-09,Correios,Outros,Despesa,37.66,Cartão de crédito
+452,2026-09-10,Internet,Moradia,Despesa,99.90,Débito
+453,2026-09-10,Corrida de aplicativo,Transporte,Despesa,37.93,Cartão de crédito
+454,2026-09-11,Supermercado,Alimentação,Despesa,209.15,Cartão de crédito
+455,2026-09-11,Delivery,Alimentação,Despesa,61.80,Cartão de crédito
+456,2026-09-11,Delivery,Alimentação,Despesa,52.33,Cartão de crédito
+457,2026-09-11,Cinema,Lazer,Despesa,78.14,Pix
+458,2026-09-12,Streaming de vídeo,Assinaturas,Despesa,39.90,Cartão de crédito
+459,2026-09-13,Farmácia,Saúde,Despesa,63.70,Pix
+460,2026-09-13,Supermercado,Alimentação,Despesa,228.15,Pix
+461,2026-09-14,Streaming de música,Assinaturas,Despesa,21.90,Cartão de crédito
+462,2026-09-14,Bar com amigos,Lazer,Despesa,71.75,Pix
+463,2026-09-15,Conta de luz,Moradia,Despesa,129.15,Boleto
+464,2026-09-17,Restaurante,Alimentação,Despesa,98.46,Cartão de crédito
+465,2026-09-18,Lavanderia,Outros,Despesa,23.69,Pix
+466,2026-09-19,Bar com amigos,Lazer,Despesa,62.10,Cartão de crédito
+467,2026-09-19,Eletrônicos,Compras,Despesa,128.05,Cartão de crédito
+468,2026-09-20,Delivery,Alimentação,Despesa,55.09,Cartão de crédito
+469,2026-09-20,Corrida de aplicativo,Transporte,Despesa,13.78,Cartão de crédito
+470,2026-09-20,Passeio,Lazer,Despesa,120.56,Cartão de crédito
+471,2026-09-21,Delivery,Alimentação,Despesa,29.37,Cartão de crédito
+472,2026-09-21,Corrida de aplicativo,Transporte,Despesa,29.79,Cartão de crédito
+473,2026-09-23,Supermercado,Alimentação,Despesa,216.15,Cartão de crédito
+474,2026-09-23,Corrida de aplicativo,Transporte,Despesa,34.69,Cartão de crédito
+475,2026-09-24,Restaurante,Alimentação,Despesa,42.52,Débito
+476,2026-09-24,Corrida de aplicativo,Transporte,Despesa,14.35,Cartão de crédito
+477,2026-09-26,Correios,Outros,Despesa,87.39,Débito
+478,2026-09-28,Rendimento da reserva,Rendimentos,Receita,28.35,Pix
+479,2026-09-28,Farmácia,Saúde,Despesa,41.04,Débito
+480,2026-09-28,Delivery,Alimentação,Despesa,48.41,Cartão de crédito
+481,2026-09-28,Corrida de aplicativo,Transporte,Despesa,26.07,Cartão de crédito
